@@ -1,2 +1,4 @@
-This profile is used for my java code.
+# Java
+
+This profile is used for my `Java`.
 I am creating it now.  
